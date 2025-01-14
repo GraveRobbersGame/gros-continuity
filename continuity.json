@@ -1,0 +1,33 @@
+{
+    "Skippy the Undead Hellhound" : {
+        "related" : [
+            "Skippy the Wonder Dog"
+        ]
+    },
+    "Skippy the Jungle Dog" : {
+        "related" : [
+            "Skippy the Wonder Dog"
+        ]
+    },
+    "Skippy's Stunt Double" : {
+        "related" : [
+            "Skippy the Wonder Dog"
+        ]
+    },
+    "Zombie Draught" : {
+        "current" : {
+            "abilities" : "The Character bearing the Draught gains 'Zombie' (— They are 'Dumb', 'Supernatural', and cannot use Abilities, Popcorn, or Props... *except* this one) OR you may discard from your hand to grant 'Zombie' to an attack.\n\n'Cursed' — Cannot be moved between Characters normally and may be played into another Movie."
+        },
+        "rulings" : {
+            "01-14-2025" : "With its original text in CPJD-DC, it seems to imply that it would have to be discarded the moment the Character it's played on gains 'Zombie'. The current text has been errata'd to reflect that it's the *only* Prop they can carry."
+        }
+    },
+    "Rival Plantation Owner" : {
+        "current" : {
+            "title" : "Title"
+        },
+        "rulings" : {
+            "01-14-2025" : "Original Title Word in CPJD-DC was mistakenly \"Title Word\" when it should have simply been \"Title\"."
+        }
+    }
+}
